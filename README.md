@@ -1,4 +1,4 @@
-# Data-Analysis-in-Python
+# Practicing-Data-Analysis-in-Python
 
 This repository contains my hands-on practice for data analysis using Python.  
 I’m learning and exploring libraries like **pandas**, **NumPy**, **matplotlib**, and **seaborn**  
